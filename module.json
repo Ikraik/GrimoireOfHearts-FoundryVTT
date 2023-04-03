@@ -25,7 +25,7 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/Ikraik/GrimoireOfHearts-FoundryVTT",
+  "manifest": "https://github.com/Ikraik/GrimoireOfHearts-FoundryVTT/releases/tag/alpha/module.json",
+  "download": "https://github.com/Ikraik/GrimoireOfHearts-FoundryVTT/releases/tag/alpha/module.zip"
 }
